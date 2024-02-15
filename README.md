@@ -10,14 +10,17 @@ Gracias, por darme el privilegio de demostrar toda mi capacidad en poco tiempo.
 
 Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.js, Node.js, JavaScript, Typescript Y PRONTAMENTE Mongodb.
 
-# Logica de programacion para pago de cheque:
-
-![Captura de pantalla 2024-02-15 120424](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/bcb00241-8aba-471c-84ee-6d831578560e)
 
 # Presentacion Dashboard:
 
 ![Captura de pantalla 2024-02-13 230614](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/28e6ff0c-0f31-46b3-abd7-380a778dc383)
 ![Captura de pantalla 2024-02-13 230630](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/d3897276-b7c9-4b2e-bd36-2c92a60eb9c5)
+
+
+
+# Logica de programacion para pago de cheque:
+
+![Captura de pantalla 2024-02-15 120424](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/bcb00241-8aba-471c-84ee-6d831578560e)
 
 ## Instalación
 
