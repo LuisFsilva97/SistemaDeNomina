@@ -1,7 +1,7 @@
 # Sistema de Nómina @LUIS FERNANDO SILVA BETANCURT
 
 
-Este es un sistema de nómina desarrollado utilizando Next.js, React.js, Node.js, JavaScript, Typescript Y PRONTAMENTE Mongodb.
+Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.js, Node.js, JavaScript, Typescript Y PRONTAMENTE Mongodb.
 
 
 ![Captura de pantalla 2024-02-13 230614](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/28e6ff0c-0f31-46b3-abd7-380a778dc383)
