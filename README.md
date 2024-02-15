@@ -1,5 +1,12 @@
 # Sistema de Nómina @LUIS FERNANDO SILVA BETANCURT
 
+Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mostrar mi capacidades Frontend y Backend en Next.js como se pedia en el enuciado.
+
+#A Continuaciòn leer y observar muy bien las caracteristicas del Software por medio de imagenes, luego leer las instrucciones para asi descargarlo, instalarlo y ser probarlo. llegado el caso que no funcione puede indicar una reunion para ayuda al usuario o reclutador que lo observara.
+
+Soporte: SOYLUFE97@GMAIL.COM
+
+Gracias, por darme el privilegio de demostrar toda mi capacidad en poco tiempo.
 
 Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.js, Node.js, JavaScript, Typescript Y PRONTAMENTE Mongodb.
 
