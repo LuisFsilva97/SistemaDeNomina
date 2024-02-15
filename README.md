@@ -13,7 +13,7 @@ Soporte: SOYLUFE97@GMAIL.COM
 
 Gracias, por darme el privilegio de demostrar toda mi capacidad en poco tiempo.
 
-Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.js, Node.js, JavaScript, Typescript Y PRONTAMENTE Mongodb.
+Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.js, Node.js, JavaScript, Typescript Y Mongodb.
 
 # Presentacion Login:
 ![Captura de pantalla 2024-02-15 161557](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/d626b768-0bbc-4a52-9d22-085400cac691)
