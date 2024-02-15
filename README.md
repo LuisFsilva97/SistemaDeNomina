@@ -1,8 +1,8 @@
 # Sistema de Nómina @LUIS FERNANDO SILVA BETANCURT
 
 Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mostrar mi capacidades Frontend y Backend en Next.js como se pedia en el enuciado.
-![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/30e8008b-6ed5-494d-9930-d494631f0dde)
-![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/3d68baf5-58af-42d6-ad31-05a2036269e9)
+
+![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/5a5a5e41-a4db-49aa-8984-4a274f27fc6f) ![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/9dae2d5f-2e26-4159-a49d-318e2ee299aa)
 
 #A Continuaciòn leer y observar muy bien las caracteristicas del Software por medio de imagenes, luego leer las instrucciones para asi descargarlo, instalarlo y ser probarlo. llegado el caso que no funcione puede indicar una reunion para ayuda al usuario o reclutador que lo observara.
 
@@ -18,7 +18,7 @@ Este es un sistema de nómina desarrollado utilizando totalmente Next.js, React.
 # Presentacion Dashboard:
 
 ![Captura de pantalla 2024-02-13 230614](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/28e6ff0c-0f31-46b3-abd7-380a778dc383)
-![Captura de pantalla 2024-02-13 230630](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/d3897276-b7c9-4b2e-bd36-2c92a60eb9c5)
+![Captura de pantalla 2024-02-13 230630](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/cfd66fb3-da13-4828-91f7-d2161e38aec0)
 
 # Usuarios:
 ![Captura de pantalla 2024-02-15 161233](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/98873e37-3c5c-40dc-9093-51518bfffe06)
