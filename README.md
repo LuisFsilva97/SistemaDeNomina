@@ -1,6 +1,8 @@
 # Sistema de Nómina @LUIS FERNANDO SILVA BETANCURT
 
 Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mostrar mi capacidades Frontend y Backend en Next.js como se pedia en el enuciado.
+![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/30e8008b-6ed5-494d-9930-d494631f0dde)
+![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/3d68baf5-58af-42d6-ad31-05a2036269e9)
 
 #A Continuaciòn leer y observar muy bien las caracteristicas del Software por medio de imagenes, luego leer las instrucciones para asi descargarlo, instalarlo y ser probarlo. llegado el caso que no funcione puede indicar una reunion para ayuda al usuario o reclutador que lo observara.
 
