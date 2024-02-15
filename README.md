@@ -3,6 +3,7 @@
 Queriendo sorprender a los reclutadores, opte por un desarrollo desde 0 para mostrar mi capacidades Frontend y Backend en Next.js como se pedia en el enuciado.
 
 ![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/5a5a5e41-a4db-49aa-8984-4a274f27fc6f) ![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/9dae2d5f-2e26-4159-a49d-318e2ee299aa)
+![nestjs-icon-2048x2040-3rrvcej8](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/443d68a1-7822-41dc-82e5-4b83eaaf6495)![MongoDB_Logo svg](https://github.com/LuisFsilva97/-PEOPayGo-Systems--software-engineer/assets/157631615/0f511d09-3635-449f-b7b8-5621f078ad21)
 
 #A Continuaciòn leer y observar muy bien las caracteristicas del Software por medio de imagenes, luego leer las instrucciones para asi descargarlo, instalarlo y ser probarlo. llegado el caso que no funcione puede indicar una reunion para ayuda al usuario o reclutador que lo observara.
 
