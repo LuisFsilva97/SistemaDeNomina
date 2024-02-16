@@ -50,34 +50,26 @@ PARA OBTENER LAS CARPETAS:
 .next
 .node_modules
 
-1. **Inicializa un proyecto de Node.js**:
-   ```bash
-   npm init -y
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-##First, run the development server:
+## First, run the development server:
 
 npm run dev
 
-##Instala React.js:
+## Inicializa un proyecto de Node.js**:
 
-bash
-Copy code
+npm init -y
+
+## Instala React.js:
+
 npx create-react-app my-app
-Navega hasta el directorio de la aplicación:
 
-bash
-
-cd *ap*
-Instala Next.js:
-
-##bash:
+## Instala Next.js:
 
 npm install next react react-dom
-Uso
-Para ejecutar la aplicación en un entorno de desarrollo
+
 
 ##bash
 
